@@ -28,7 +28,7 @@ class Todo:
 
     @staticmethod
     def from_dict(todo_dict):
-        """_summary_
+        """Takes a dictionary and converts it to a Todo object
 
         Args:
             todo_dict (dict): todo dictionary argument
