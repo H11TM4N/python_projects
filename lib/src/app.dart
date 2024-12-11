@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Country Stats',
+        title: 'IP Address Tracker',
         theme: ThemeData(
           useMaterial3: true,
         ),
