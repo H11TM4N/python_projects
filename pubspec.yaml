@@ -1,0 +1,50 @@
+name: ip_address_tracker
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flutter_hooks: ^0.20.5
+  google_maps_flutter: ^2.10.0
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/font/Rubik-Black.ttf
+        - asset: assets/font/Rubik-BlackItalic.ttf
+        - asset: assets/font/Rubik-Bold.ttf
+        - asset: assets/font/Rubik-BoldItalic.ttf
+        - asset: assets/font/Rubik-ExtraBold.ttf
+        - asset: assets/font/Rubik-ExtraBoldItalic.ttf
+        - asset: assets/font/Rubik-Italic.ttf
+        - asset: assets/font/Rubik-Light.ttf
+        - asset: assets/font/Rubik-LightItalic.ttf
+        - asset: assets/font/Rubik-Medium.ttf
+        - asset: assets/font/Rubik-MediumItalic.ttf
+        - asset: assets/font/Rubik-Regular.ttf
+        - asset: assets/font/Rubik-SemiBold.ttf
+        - asset: assets/font/Rubik-SemiBoldItalic.ttf
