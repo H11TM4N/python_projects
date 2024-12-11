@@ -2,6 +2,8 @@
 
 This project is an IP Address Tracker app built with Flutter. It allows users to track the geographical details of any IP address, including location, timezone, and ISP information. The app integrates Google Maps to display the IP location visually.
 
+![App Demo](assets/demo.jpg)
+
 ## Prerequisites
 
 Before you can run this app, ensure you have the following installed on your development machine:
